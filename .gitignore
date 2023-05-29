@@ -10,7 +10,17 @@
 # Icon must end with two \r
 Icon
 
+t5-small
+t5-large
 
+all-mpnet-base-v2
+all-MiniLM-L6-v2
+all-MiniLm-L12-v2
+all-distilroberta-v1
+
+bert-base-uncased
+bert-large-uncased
+classifier.pkl
 # Thumbnails
 ._*
 
